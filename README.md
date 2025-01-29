@@ -18,7 +18,9 @@ The code implements a trap-camera image classification system for Jasper Ridge (
 ```
 python predict.py --threshold 0.9
 ```
-### Image
+### Training the DataModel
 ![Optimized VRP Route](data_model.png)
+
+### Image
 ![Optimized VRP Route](output.png)
 
